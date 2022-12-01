@@ -1,0 +1,15 @@
+E:\Koko\project_5\задача 38\bin\Debug\net7.0\задача 38.exe
+E:\Koko\project_5\задача 38\bin\Debug\net7.0\задача 38.deps.json
+E:\Koko\project_5\задача 38\bin\Debug\net7.0\задача 38.runtimeconfig.json
+E:\Koko\project_5\задача 38\bin\Debug\net7.0\задача 38.dll
+E:\Koko\project_5\задача 38\bin\Debug\net7.0\задача 38.pdb
+E:\Koko\project_5\задача 38\obj\Debug\net7.0\задача 38.csproj.AssemblyReference.cache
+E:\Koko\project_5\задача 38\obj\Debug\net7.0\задача 38.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koko\project_5\задача 38\obj\Debug\net7.0\задача 38.AssemblyInfoInputs.cache
+E:\Koko\project_5\задача 38\obj\Debug\net7.0\задача 38.AssemblyInfo.cs
+E:\Koko\project_5\задача 38\obj\Debug\net7.0\задача 38.csproj.CoreCompileInputs.cache
+E:\Koko\project_5\задача 38\obj\Debug\net7.0\задача 38.dll
+E:\Koko\project_5\задача 38\obj\Debug\net7.0\refint\задача 38.dll
+E:\Koko\project_5\задача 38\obj\Debug\net7.0\задача 38.pdb
+E:\Koko\project_5\задача 38\obj\Debug\net7.0\задача 38.genruntimeconfig.cache
+E:\Koko\project_5\задача 38\obj\Debug\net7.0\ref\задача 38.dll

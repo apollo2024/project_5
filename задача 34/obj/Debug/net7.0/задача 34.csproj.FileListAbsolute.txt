@@ -1,0 +1,15 @@
+E:\Koko\project_5\задача 34\bin\Debug\net7.0\задача 34.exe
+E:\Koko\project_5\задача 34\bin\Debug\net7.0\задача 34.deps.json
+E:\Koko\project_5\задача 34\bin\Debug\net7.0\задача 34.runtimeconfig.json
+E:\Koko\project_5\задача 34\bin\Debug\net7.0\задача 34.dll
+E:\Koko\project_5\задача 34\bin\Debug\net7.0\задача 34.pdb
+E:\Koko\project_5\задача 34\obj\Debug\net7.0\задача 34.csproj.AssemblyReference.cache
+E:\Koko\project_5\задача 34\obj\Debug\net7.0\задача 34.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koko\project_5\задача 34\obj\Debug\net7.0\задача 34.AssemblyInfoInputs.cache
+E:\Koko\project_5\задача 34\obj\Debug\net7.0\задача 34.AssemblyInfo.cs
+E:\Koko\project_5\задача 34\obj\Debug\net7.0\задача 34.csproj.CoreCompileInputs.cache
+E:\Koko\project_5\задача 34\obj\Debug\net7.0\задача 34.dll
+E:\Koko\project_5\задача 34\obj\Debug\net7.0\refint\задача 34.dll
+E:\Koko\project_5\задача 34\obj\Debug\net7.0\задача 34.pdb
+E:\Koko\project_5\задача 34\obj\Debug\net7.0\задача 34.genruntimeconfig.cache
+E:\Koko\project_5\задача 34\obj\Debug\net7.0\ref\задача 34.dll
